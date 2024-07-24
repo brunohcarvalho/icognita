@@ -1,0 +1,100 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "editora": "Martin Claret",
+      "preco":"32,00",
+      "imagem": "https://m.media-amazon.com/images/I/8103mYz1aTS._SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Carmilla",
+      "autor": "Joseph Sheridan Le Fanu",
+      "editora": "Editora Wish",
+      "preco":"55,00",
+      "imagem": "https://m.media-amazon.com/images/I/91lCo0lhKuL._SY342_.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Carmilla: A vampira de Karnstein",
+      "autor": "Joseph Sheridan Le Fanu",
+      "editora": "Novo Século",
+      "preco":"42,50",
+      "imagem": "https://www.gruponovoseculo.com.br/image/cache/catalog/products/Carmilla-350x440.png"
+    },
+    {
+      "id": "4",
+      "titulo": "Saboroso Cadáver",
+      "autor": "Agustina Bazterrica",
+      "editora": "Darkside",
+      "preco":"37,90",
+      "imagem": "https://m.media-amazon.com/images/I/714Y-3rNGmL._SL1500_.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Memórias póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "editora": "Culturama",
+      "preco":"29,99",
+      "imagem": "https://m.media-amazon.com/images/I/61DH2cLaQwL._SL1000_.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Memórias póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "editora": "Moderna Literatura",
+      "preco":"42,00",
+      "imagem": "https://m.media-amazon.com/images/I/91NgBtVegoL._SL1500_.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Memórias póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "editora": "Penguin Books",
+      "preco":"29,99",
+      "imagem": "https://m.media-amazon.com/images/I/61-X+Q-DkQL._SL1500_.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "O Alienista",
+      "autor": "Machado de Assis",
+      "editora": "Excelsior",
+      "preco":"39,99",
+      "imagem": "https://m.media-amazon.com/images/I/91EoMxFcfKL._SL1500_.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "O Alienista",
+      "autor": "Machado de Assis",
+      "editora": "Panda Books",
+      "preco":"19,99",
+      "imagem": "https://m.media-amazon.com/images/I/81FxJtYdVML._SL1500_.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "O médico e o monstro",
+      "autor": "Robert Louis Stevenson",
+      "editora": "Principis",
+      "preco":"27,80",
+      "imagem": "https://m.media-amazon.com/images/I/717l8ZCezhL._SL1360_.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "editora": "Editora Antofágica",
+      "preco":"39,99",
+      "imagem": "https://m.media-amazon.com/images/I/81-OgmOxScL._SL1500_.jpg"
+    },
+    {
+      "id": "12",
+      "titulo": "Frankenstein: edição bolso",
+      "autor": "Mary Shelley",
+      "editora": "Clássicos Zahar",
+      "preco":"21,00",
+      "imagem": "https://m.media-amazon.com/images/I/91Kz+sC5X0L._SL1500_.jpg"
+    }
+  ]
+}
