@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/icognita/static/js/main.e0ecb369.js",
+    "static/js/453.d657754e.chunk.js": "/icognita/static/js/453.d657754e.chunk.js",
+    "static/media/logo.svg": "/icognita/static/media/logo.09a4ba641f31ad5a85398a29907d3e45.svg",
+    "index.html": "/icognita/index.html",
+    "main.e0ecb369.js.map": "/icognita/static/js/main.e0ecb369.js.map",
+    "453.d657754e.chunk.js.map": "/icognita/static/js/453.d657754e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e0ecb369.js"
+  ]
+}
